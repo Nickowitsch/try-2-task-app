@@ -3,6 +3,11 @@
     "name": "Just Do It Man...",
     "slug": "just-do-it-man",
     "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "5d8fb222-17fa-4a13-864d-647a1891b254"
+      }
+    },
     "orientation": "portrait",
     "icon": "./assets/images/Just_do_it_man_log_copy.png",
     "scheme": "dailytasks",
